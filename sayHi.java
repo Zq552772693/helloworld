@@ -6,5 +6,8 @@ public class SayHi
     int j = 15;
     int sun = i + j;
     System.out.println(sun);
+    
+    String str = "Hi";
+    System.out.printlin(str);
   }
 }
